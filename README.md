@@ -1,5 +1,13 @@
 # Floodify README Page:
 
+<img width="589" alt="Screenshot 2024-10-18 at 10 48 45 AM" src="https://github.com/user-attachments/assets/c231e6d5-9c8b-414c-91dc-45fdc2c2f2c0" />
+
+<img width="567" alt="Screenshot 2024-10-18 at 10 51 10 AM" src="https://github.com/user-attachments/assets/e1602240-d7a0-4311-b029-d7c72814cab9" />
+
+<img width="595" alt="Screenshot 2024-10-18 at 10 53 57 AM" src="https://github.com/user-attachments/assets/24368a3b-1a70-4cac-92fd-01d330877f27" />
+
+<img width="276" alt="Screenshot 2024-10-18 at 10 56 15 AM" src="https://github.com/user-attachments/assets/e7a55362-f82a-4ad5-a05c-b3c9b7fcd10f" />
+
 ## GitHub Link
 https://github.com/Joel1414/FloodApp.git
 
