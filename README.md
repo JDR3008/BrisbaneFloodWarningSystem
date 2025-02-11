@@ -1,4 +1,4 @@
-# Floodify README Page:
+# Floodify
 
 <img width="589" alt="Screenshot 2024-10-18 at 10 48 45 AM" src="https://github.com/user-attachments/assets/c231e6d5-9c8b-414c-91dc-45fdc2c2f2c0" />
 
